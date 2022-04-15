@@ -4,7 +4,7 @@ subtitle: The world would be even better with more dogs
 image: /img/puppy.jpg
 blurb:
     heading: How to avoid a dog toy graveyard?
-    image: /img/toygraveyard.jpg
+    image: /img/toy-graveyard.jpg
     text: "If you have an aggressive chewer, you know that finding the right toys can be a challenge. It seems like as soon as you buy a new toy, it ends up in the dog toy graveyard.
 
 So how do you avoid a dog toy graveyard? The key is to find toys that are durable and designed for [aggressive chewers](https://teddys.nz/collections/durable-dog-toys). These toys are generally  made of tougher materials like rubber or nylon. And they often have a reinforced design that can stand up to some serious chewing. If you want to go for a soft toy, try get one without stuffing, strong fabric, and double stitching at all of the seams."
