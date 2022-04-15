@@ -11,6 +11,8 @@ So how do you avoid a dog toy graveyard? The key is to find toys that are durabl
 intro:
     heading: "Dental chews, should you use them?"
     image: https://cdn.shopify.com/s/files/1/0627/0517/2694/products/WhimzeesPuppyXS-SmDentalChews2_900x.jpg?v=1649748008g
+    text: There is some debate over whether or not dental chews are effective in cleaning a dog's teeth. In general it is best not to just rely  on dental chews to clean your dog's teeth. It is still important to brush your dog's teeth regularly, in order to ensure optimum dental health. However, if used in conjunction with regular brushing, dental chews can be a helpful way to keep your dog's teeth clean and healthy.
+  
     
     
 ---
